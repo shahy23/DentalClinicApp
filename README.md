@@ -52,13 +52,13 @@ The system is powered by a relational SQL Server database. You can find the comp
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./Screenshots/login_screen.jpeg" width="45%" title="Login Screen">
-  <img src="./Screenshots/SignUp_screen.jpeg" width="45%" title="Sign Up Screen">
+  <img src="GUI/login_screen.jpeg" width="45%" title="Login Screen">
+  <img src="GUI/SignUp_screen.jpeg" width="45%" title="Sign Up Screen">
 </p>
 
 <p align="center">
-  <img src="./Screenshots/PatientDashboard.jpeg" width="45%" title="Patient Dashboard">
-  <img src="./Screenshots/DoctorDashboard.jpeg" width="45%" title="Doctor Dashboard">
+  <img src="GUI/PatientDashboard.jpeg" width="45%" title="Patient Dashboard">
+  <img src="GUI/DoctorDashboard.jpeg" width="45%" title="Doctor Dashboard">
 </p>
 
 <p align="center">
@@ -68,7 +68,8 @@ The system is powered by a relational SQL Server database. You can find the comp
 
 ## 👥 Project Team
 Developed as part of the Computer Engineering & Software Systems curriculum at **Ain Shams University**:
-- **Shahinda Gamal** ([@shahy23](https://github.com/shahy23)) - Project Lead & Backend Developer
+- **Shahinda Gamal** ([@shahy23](https://github.com/shahy23)) -Team Member
+
 - [Mohamed Amged - Team Member]
 - [Fatma Wael - Team Member]
 - [Rahma Yosry - Team Member]
