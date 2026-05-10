@@ -59,7 +59,7 @@ The system is powered by a relational SQL Server database. You can find the comp
 <p align="center">
   <img src="GUI/PatientDashboard.jpeg" width="45%" title="Patient Dashboard">
   <img src="GUI/DoctorDashboard.jpeg" width="45%" title="Doctor Dashboard">
-   <img src="GUI/PatientDashboard.jpeg" width="45%" title="Receptionist Dashboard">
+  <img src="GUI/ReceptionistDashboard.jpeg" width="45%" title="Receptionist Dashboard">
 </p>
 
 <p align="center">
@@ -69,8 +69,7 @@ The system is powered by a relational SQL Server database. You can find the comp
 
 ## 👥 Project Team
 Developed as part of the Computer Engineering & Software Systems curriculum at **Ain Shams University**:
-- **Shahinda Gamal** ([@shahy23](https://github.com/shahy23)) -Team Member
-
+- **Shahinda Gamal**  -Team Member
 - [Mohamed Amged - Team Member]
 - [Fatma Wael - Team Member]
 - [Rahma Yosry - Team Member]
