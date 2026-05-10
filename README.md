@@ -57,7 +57,7 @@ The system is powered by a relational SQL Server database. You can find the comp
 </p>
 
 <p align="center">
-  <img src="GUI/PatientDashboard.jpeg" width="45%" title="Patient Dashboard">
+ <img width="801" height="487" alt="PatientDashboard" src="https://github.com/user-attachments/assets/64f2efff-6c11-4cd2-9bc8-57f84f93bb70" />
   <img src="GUI/DoctorDashboard.jpeg" width="45%" title="Doctor Dashboard">
   <img src="GUI/ReceptionistDashboard.jpeg" width="45%" title="Receptionist Dashboard">
 </p>
