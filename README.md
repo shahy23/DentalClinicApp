@@ -53,13 +53,13 @@ The system is powered by a relational SQL Server database. You can find the comp
 ## 📸 Screenshots
 <p align="center">
   <img src="GUI/login_screen.jpeg" width="45%" title="Login Screen">
-  <img src="GUI/SignUp_screen.jpeg" width="45%" title="Sign Up Screen">
+  <img src="GUI/SignUP_screen.jpeg" width="45%" title="Sign Up Screen">
 </p>
 
 <p align="center">
   <img src="GUI/PatientDashboard.jpeg" width="45%" title="Patient Dashboard">
   <img src="GUI/DoctorDashboard.jpeg" width="45%" title="Doctor Dashboard">
-   <img src="GUI/ReceptionistDashboard.jpeg" width="45%" title="Receptionist Dashboard">
+   <img src="GUI/PatientDashboard.jpeg" width="45%" title="Receptionist Dashboard">
 </p>
 
 <p align="center">
